@@ -18,7 +18,8 @@
         android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
-        android:onClick="hasteButtonPressed" />
+        android:onClick="hasteButtonPressed"
+        android:textAllCaps="false" />
 
     <ImageView
         android:layout_width="wrap_content"
