@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Cookie</string>
+    <string name="haste_button">Hier hast du Button!</string>
 </resources>
